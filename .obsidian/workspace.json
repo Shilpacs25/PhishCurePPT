@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "c5fed1b34f4d5cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb0d86db44971c2c",
+        "type": "tabs",
+        "dimension": 49.93573264781491,
+        "children": [
+          {
+            "id": "a3fa1c04781bd24b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e3bdc99a193b068",
+        "type": "tabs",
+        "dimension": 50.06426735218509,
+        "children": [
+          {
+            "id": "66050fce64640fc0",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "379167987247025e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0be4e7299654ada9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fca5a6692b83a18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fba0cfb6efb4882",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "047e7f234f3f3bae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "57eb4c33bcbeb51a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a6da6388f78134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cab2eb9247d9e750",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66d9bf6ce9250c99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96501fe6ac9e94d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a14de7d968fd21d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "a3fa1c04781bd24b",
+  "lastOpenFiles": [
+    "whalingdark.png",
+    "whaling.jpeg",
+    "vision.png",
+    "vishingdark.png",
+    "vishing.jpeg",
+    "sphearphishing.jpeg",
+    "speardark.png",
+    "smishingdark.png",
+    "smishing.jpeg",
+    "skilldisk.png",
+    "Project.md",
+    "pred.png",
+    "Welcome.md"
+  ]
+}
